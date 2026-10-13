@@ -12,10 +12,10 @@ class Program
     {
         DataService ds = new DataService();
 
-        Console.Title = "Спринт #2 | Задание #6 | Вариант 11";
+        Console.Title = "Спринт #2 | Задание #7 | Вариант 11";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
-        Console.WriteLine("* Задание #6                                                              *");
+        Console.WriteLine("* Задание #7                                                              *");
         Console.WriteLine("* Вариант #11                                                             *");
         Console.WriteLine("* Выполнила: Мишагина К. С.                                               *");
         Console.WriteLine("***************************************************************************");
