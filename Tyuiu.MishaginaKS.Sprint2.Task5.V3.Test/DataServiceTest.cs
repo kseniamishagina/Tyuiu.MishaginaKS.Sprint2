@@ -14,6 +14,6 @@ public class DataServiceTest
 
         string res = ds.FindDayName(1);
 
-        Assert.AreEqual("Понедельник", res);
+        Assert.AreEqual("понедельник", res);
     }
 }
